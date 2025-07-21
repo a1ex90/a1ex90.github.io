@@ -7,3 +7,12 @@
 
 "Vision":
   color: "#009f36"
+
+"Simulation":
+  color: "#80a6ff"
+
+"AR":
+  color: "#ff8080"
+
+"Sampling":
+  color: "#8fff80"

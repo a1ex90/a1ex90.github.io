@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Alexander Sommer",
+    "label": "Computer Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "alexander.sommer(at)hs-rm.de",
+    "phone": "",
+    "url": "",
+    "summary": "TODO",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,177 +24,151 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "RheinMain University of Applied Sciences",
+      "location": "Wiesbaden, Germany",
+      "position": "Research Associate",
+      "url": "https://www.hs-rm.de/en/",
+      "startDate": "2019-12-01",
+      "endDate": "2023-09-30",
+      "summary": "",
+      "highlights": []
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "RheinMain University of Applied Sciences",
+      "location": "Wiesbaden, Germany",
+      "position": "Referent AI Engineering and AI Transfer",
+      "url": "https://www.hs-rm.de/en/",
+      "startDate": "2023-10-01",
+      "endDate": "today",
+      "summary": "",
+      "highlights": []
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Justus Liebig University",
+      "location": "Giessen, Germany",
+      "url": "https://www.uni-giessen.de/en?set_language=en",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2012-10-15",
+      "endDate": "2015-08-30",
+      "score": "1.4",
+      "courses": []
+    },
+    {
+      "institution": "University of Washington",
+      "location": "Seattle, USA",
+      "url": "https://www.washington.edu/",
+      "area": "Physics & Computer Science",
+      "studyType": "International Study and Training Partnerships (DAAD)",
+      "startDate": "2015-09-01",
+      "endDate": "2016-06-30",
+      "score": "-",
+      "courses": []
+    },
+    {
+      "institution": "RheinMain University of Applied Sciences",
+      "location": "Wiesbaden, Germany",
+      "url": "https://www.hs-rm.de/en/",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2016-10-16",
+      "endDate": "2018-11-30",
+      "score": "1.2",
+      "courses": []
+    },
+    {
+      "institution": "Johannes Gutenberg University of Mainz",
+      "location": "Mainz, Germany",
+      "url": "https://www.uni-mainz.de/en/",
+      "area": "Faculty of Physics, Mathematics, and Computer Science",
+      "studyType": "Doctor of Natural Sciences",
+      "startDate": "2020-01-15",
+      "endDate": "2025-09-30",
+      "score": "-",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Deutschlandstipendium",
+      "date": "2017-10-01",
+      "awarder": "Federal Ministry of Research, Technology and Space",
+      "url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html",
+      "summary": "The Deutschlandstipendium provides financial and non-material support to high-achieving and committed students from all over the world."
+    },
+    {
+      "title": "International Study and Training Partnerships",
+      "date": "2015-03-26",
+      "awarder": "DAAD",
+      "url": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/isap/",
+      "summary": "International Study and Training Partnerships (ISAP) are institutional cooperative structures between German and international universities, in which groups of highly qualified German and international students can complete a fully recognised part of their degree programme at a partner university."
+    },
+    {
+      "title": "Deutschlandstipendium",
+      "date": "2013-11-27",
+      "awarder": "Federal Ministry of Research, Technology and Space",
+      "url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html",
+      "summary": "The Deutschlandstipendium provides financial and non-material support to high-achieving and committed students from all over the world."
+    },
+    {
+      "title": "Prize for the year's best A-level performance",
+      "date": "2012-06-16",
+      "awarder": "District Administrator of the Westerwaldkreis",
+      "url": "",
+      "summary": "Prize for the best performance of my graduating year."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Building RAG Agents with LLMs",
+      "date": "2025-07-15",
+      "issuer": "Nvidia",
+      "url": "https://learn.nvidia.com/certificates?id=tmCFEjbHTdKl496Z6rd8YQ"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Building Transformer-Based Natural Language Processing Applications",
+      "date": "2025-07-10",
+      "issuer": "Nvidia",
+      "url": "https://learn.nvidia.com/certificates?id=tNotwUgfSAWEhWRPgOKwlA"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "publications": [],
+  "skills": [],
+  "interests": [],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Native speaker (C2)",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (C1)",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "ATRIUM",
+      "partner": "ZIM Project (BMBF)",
+      "summary": "This project developed a framework for real-time simulation and visualization of granular materials using AI-based predictions trained on classical simulation data. The approach enables faster, more detailed simulations even on less powerful devices.",
+      "highlights": [],
+      "startDate": "2019-12-01",
+      "endDate": "2021-10-31",
+      "url": "https://lavis.cs.hs-rm.de/research.finished.html"
+    },
+    {
+      "name": "MobiliAR",
+      "partner": "LOEWE Project",
+      "summary": "This project explored applications of augmented reality, computer vision, and artificial intelligence to enhance digital furniture sales, enabling customers to virtually place, measure, and configure furniture in their own spaces.",
+      "highlights": [],
+      "startDate": "2021-11-01",
+      "endDate": "2023-09-30",
+      "url": "https://lavis.cs.hs-rm.de/research.ongoing.html"
     }
   ]
 }

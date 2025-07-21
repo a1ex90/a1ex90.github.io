@@ -1,0 +1,56 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+  {% assign lectures = data[1] | sort: 'year' | reverse %}
+  {% for content in lectures %}
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+          {% if content.year and content.year != '' %}
+            {% if content.term and content.term == 'WS' %}
+                {% assign next_year = content.year | plus: 1 %}
+                {% assign date = 'WS ' | append: content.year | append:'/' | append: next_year %}
+            {% elsif content.term and content.term == 'SS' %}
+                {% assign date = 'SS ' | append: content.year %}
+            {% else %}
+                {% assign date = content.year %}
+            {% endif %}
+          {% else %}
+            {% assign date = null %}
+          {% endif %}
+          <table class="table-cv">
+            <tbody>
+              <tr>
+                <td>
+                  {% if date %}
+                    <span class="badge font-weight-light danger-color-dark align-middle" style="min-width: 75px"> {{ date }} </span>
+                  {% endif %}
+                </td>
+              </tr>
+              {% if content.location %}
+                <tr>
+                  <td>
+                    <p class="location">
+                      <i class="fa-solid fa-location-dot iconlocation" style="color: var(--global-text-color)"></i>
+                      {{ content.location }}
+                    </p>
+                  </td>
+                </tr>
+              {% endif %}
+            </tbody>
+          </table>
+        </div>
+        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
+          <h6 class="title font-weight-bold ml-1 ml-md-4" style="color: var(--global-text-color) !important; font-weight: 400 !important">{{ content.lecture }}</h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.institution }}</h6>
+          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
+          <ul class="items">
+            {% for item in content.courses %}
+              <li>
+                <span class="item">{{ item }}</span>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

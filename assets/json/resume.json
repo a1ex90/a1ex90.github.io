@@ -39,7 +39,7 @@
       "position": "Referent AI Engineering and AI Transfer",
       "url": "https://www.hs-rm.de/en/",
       "startDate": "2023-10-01",
-      "endDate": "today",
+      "endDate": "",
       "summary": "",
       "highlights": []
     }
@@ -47,7 +47,7 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Justus Liebig University",
+      "institution": "Justus Liebig University of Giessen",
       "location": "Giessen, Germany",
       "url": "https://www.uni-giessen.de/en?set_language=en",
       "area": "Physics",
@@ -86,7 +86,7 @@
       "area": "Faculty of Physics, Mathematics, and Computer Science",
       "studyType": "Doctor of Natural Sciences",
       "startDate": "2020-01-15",
-      "endDate": "2025-09-30",
+      "endDate": "",
       "score": "-",
       "courses": []
     }

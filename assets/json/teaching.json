@@ -1,0 +1,68 @@
+{
+    "lectures": [
+        {
+            "institution": "RheinMain University of Applied Sciences",
+            "location": "Wiesbaden, Germany",
+            "area": "Media Computer Sciences (B.Sc.)",
+            "lecture": "Applied Mathematics",
+            "year": "2019",
+            "term": "WS",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "institution": "RheinMain University of Applied Sciences",
+            "location": "Wiesbaden, Germany",
+            "area": "Media Computer Sciences (B.Sc.)",
+            "lecture": "Applied Mathematics",
+            "year": "2021",
+            "term": "WS",
+            "summary": "",
+            "highlights": []
+        }
+    ],
+    "tutorials": [
+        {
+            "institution": "Justus Liebig University of Giessen",
+            "location": "Giessen, Germany",
+            "area": "Physics (B.Sc.)",
+            "lecture": "Mathematic Methodology for Physics",
+            "year": "2013",
+            "term": "WS",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "institution": "Justus Liebig University of Giessen",
+            "location": "Giessen, Germany",
+            "area": "Physics (B.Sc.)",
+            "lecture": "Higher Mechanics",
+            "year": "2014",
+            "term": "SS",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "institution": "Justus Liebig University of Giessen",
+            "location": "Giessen, Germany",
+            "area": "Physics (B.Sc.)",
+            "lecture": "Quantum Mechanics",
+            "year": "2014",
+            "term": "WS",
+            "summary": "",
+            "highlights": []
+        },
+        {
+            "institution": "Justus Liebig University of Giessen",
+            "location": "Giessen, Germany",
+            "area": "Physics (B.Sc.)",
+            "lecture": "Electrodynamics",
+            "year": "2015",
+            "term": "SS",
+            "summary": "",
+            "highlights": []
+        }
+    ],
+    "thesis": [],
+    "projects": []
+}

@@ -1,27 +1,5 @@
 {
-  "basics": {
-    "name": "Alexander Sommer",
-    "label": "Computer Scientist",
-    "image": "",
-    "email": "alexander.sommer(at)hs-rm.de",
-    "phone": "",
-    "url": "",
-    "summary": "TODO",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+  "basics": {},
   "work": [
     {
       "name": "RheinMain University of Applied Sciences",

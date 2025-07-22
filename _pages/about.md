@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -27,8 +27,10 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a member of the Computer Vision and Mixed Reality Group [(CVMR)](https://cvmr.info) and the [LAVIS](https://lavis.cs.hs-rm.de/) Group at the Department of Design, Computer Science and Media at RheinMain University of Applied Sciences. During my doctoral studies, I researched virtual worlds and their integration into augmented reality, exploring different artificial intelligence methods to advance this field.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My primary research interests lie in physics-based simulations, computer graphics, computer vision, and artificial intelligence. I am also interested in the application of generative AI and natural language processing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Teaching is an important and rewarding aspect of my work. I have experience conveying mathematical and physical concepts to diverse audiences and teaching a wide range of computer science topics. I enjoy supervising student projects and am always open to inquiries from students interested in developing creative solutions under my guidance.
+
+Currently, I am active at the interface between the university and [hessian.AI](https://hessian.ai), the center for AI of the state of Hesse. I provide technology-driven consulting on the application of artificial intelligence. I support the conception of AI projects and actively promote the transfer of research into practice. In this role, I maintain a broad network of contacts with professionals in the AI community and industry partners.

@@ -63,6 +63,28 @@
             "highlights": []
         }
     ],
-    "thesis": [],
-    "projects": []
+    "thesis": [
+        {
+            "institution": "RheinMain University of Applied Sciences",
+            "location": "Wiesbaden, Germany",
+            "area": "Computer Sciences (M.Sc.)",
+            "lecture": "GranularNet - Fast Data Driven 2D Simulation of Granular Materials (Fabian Stahl)",
+            "year": "2021",
+            "term": "SS",
+            "summary": "",
+            "highlights": []
+        }
+    ],
+    "projects": [
+        {
+            "institution": "RheinMain University of Applied Sciences",
+            "location": "Wiesbaden, Germany",
+            "area": "Computer Sciences (M.Sc.)",
+            "lecture": "Never Forget - Geschichte erleben (Leonard Schedel)",
+            "year": "2025",
+            "term": "WS",
+            "summary": "",
+            "highlights": []
+        }
+    ]
 }

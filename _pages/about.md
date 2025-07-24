@@ -9,7 +9,7 @@ profile:
   image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building C, Room 305</p>
+    <p>Building C, Room 205</p>
     <p>Unter den Eichen 5</p>
     <p>65195 Wiesbaden</p>
 
